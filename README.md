@@ -1,16 +1,18 @@
 # startup_namer
 
-A new Flutter project.
+A simple flutter project that suggests names for startups.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Generates unlimited word pair of names.
+- Favourite names can be saved and viewed differently on another page
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_1](https://user-images.githubusercontent.com/26837230/107630941-94911e80-6c64-11eb-84ef-b734b66b353d.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_2](https://user-images.githubusercontent.com/26837230/107631287-010c1d80-6c65-11eb-95b0-7185b2328e76.jpg)
+
+
+![Screenshot_3](https://user-images.githubusercontent.com/26837230/107631057-b8546480-6c64-11eb-80ff-9bb59f616e05.jpg)
